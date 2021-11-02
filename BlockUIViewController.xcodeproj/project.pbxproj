@@ -10,7 +10,7 @@
 		57267F57A58438BD781380A5 /* Pods_BlockUIViewController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29591C64169112755A6FF3D0 /* Pods_BlockUIViewController.framework */; };
 		A465DAE81FDD365F009FAA3C /* BlockUIViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = A465DAE61FDD365F009FAA3C /* BlockUIViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A465DAF01FDD39E7009FAA3C /* BlockUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A465DAEF1FDD39E7009FAA3C /* BlockUIViewController.swift */; };
-		A465DAF31FDD3BF2009FAA3C /* BlockUIViewController.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A465DAF21FDD3BF2009FAA3C /* BlockUIViewController.podspec */; };
+		A465DAF31FDD3BF2009FAA3C /* BlockUIViewControllerV2.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A465DAF21FDD3BF2009FAA3C /* BlockUIViewControllerV2.podspec */; };
 		A465DAF61FDD3EBB009FAA3C /* BlockUIViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A465DAF51FDD3EBB009FAA3C /* BlockUIViewController.xib */; };
 		A465DAF81FDD3EF4009FAA3C /* Bundle+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A465DAF71FDD3EF4009FAA3C /* Bundle+Additions.swift */; };
 /* End PBXBuildFile section */
@@ -23,7 +23,7 @@
 		A465DAE61FDD365F009FAA3C /* BlockUIViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlockUIViewController.h; sourceTree = "<group>"; };
 		A465DAE71FDD365F009FAA3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A465DAEF1FDD39E7009FAA3C /* BlockUIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlockUIViewController.swift; sourceTree = "<group>"; };
-		A465DAF21FDD3BF2009FAA3C /* BlockUIViewController.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BlockUIViewController.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A465DAF21FDD3BF2009FAA3C /* BlockUIViewControllerV2.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BlockUIViewControllerV2.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A465DAF51FDD3EBB009FAA3C /* BlockUIViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BlockUIViewController.xib; sourceTree = "<group>"; };
 		A465DAF71FDD3EF4009FAA3C /* Bundle+Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle+Additions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -60,7 +60,7 @@
 		A465DAD91FDD365F009FAA3C = {
 			isa = PBXGroup;
 			children = (
-				A465DAF21FDD3BF2009FAA3C /* BlockUIViewController.podspec */,
+				A465DAF21FDD3BF2009FAA3C /* BlockUIViewControllerV2.podspec */,
 				A465DAE51FDD365F009FAA3C /* BlockUIViewController */,
 				A465DAE41FDD365F009FAA3C /* Products */,
 				8769EC7D948D214ECAE26FE8 /* Pods */,
@@ -176,7 +176,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A465DAF61FDD3EBB009FAA3C /* BlockUIViewController.xib in Resources */,
-				A465DAF31FDD3BF2009FAA3C /* BlockUIViewController.podspec in Resources */,
+				A465DAF31FDD3BF2009FAA3C /* BlockUIViewControllerV2.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
