@@ -30,7 +30,7 @@ PODS:
   - TapSwiftFixesV2/CoreGraphics (1.0.0)
   - TapSwiftFixesV2/Exceptions (1.0.0)
   - TapSwiftFixesV2/Threading (1.0.0)
-  - TapViewControllerV2 (1.0.2):
+  - TapViewControllerV2 (1.0.3):
     - TapAdditionsKitV2
     - TapApplicationV2
     - TapFontsKitV2
@@ -73,9 +73,9 @@ SPEC CHECKSUMS:
   TapNibViewV2: 814b18346837d9dab611a211a702b9b0b8369d07
   TapSearchViewV2: a167173db767a2be86d66c319cbb6b8da1541531
   TapSwiftFixesV2: a8623a7273c6790b9754ec7e272e96fce7d3a800
-  TapViewControllerV2: 1cfd0fb53d4a020175ca3be8b028da21c10ced26
+  TapViewControllerV2: aaba4b0d1ce08f4aecef83d859fdf79a7c6ca62d
   TapVisualEffectViewV2: b612ffee4d05004c449d433fe45aba9563c8a508
 
 PODFILE CHECKSUM: 05d905d1111a700bc26dfc4510ae9036dd674893
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2

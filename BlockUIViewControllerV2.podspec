@@ -6,7 +6,7 @@ Pod::Spec.new do |blockUIViewController|
     blockUIViewController.name = 'BlockUIViewControllerV2'
     blockUIViewController.summary = 'Block UI View Controller.'
     blockUIViewController.requires_arc = true
-    blockUIViewController.version = '1.0.0'
+    blockUIViewController.version = '1.0.1'
     blockUIViewController.license = { :type => 'MIT', :file => 'LICENSE' }
     blockUIViewController.author = { 'Osama Rabie' => 'o.rabie@tap.company' }
     blockUIViewController.homepage = 'https://github.com/Tap-Payments/BlockUIViewControllerV2'
